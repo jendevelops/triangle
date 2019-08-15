@@ -4,6 +4,7 @@
 
 .result {
   display: none;
+  font-style: italic;
 }
 
 .btn {
