@@ -1,3 +1,13 @@
 .form-control {
   width: 200px;
 }
+
+.result {
+  display: none;
+}
+
+.btn {
+  border-color: grey;
+  border-width: thick;
+  margin-bottom: 15px;
+}
