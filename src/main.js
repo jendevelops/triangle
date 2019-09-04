@@ -1,4 +1,4 @@
-import {triangle} from './triangle';
+import {triangle} from './isATriangle';
 import $ from 'jquery';
 import 'bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
